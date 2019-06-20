@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262950096998",
+    "firebase_url": "https://attend-me-bb373.firebaseio.com",
+    "project_id": "attend-me-bb373",
+    "storage_bucket": "attend-me-bb373.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262950096998:android:3a288d0d26109c20",
+        "android_client_info": {
+          "package_name": "com.example.attend_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262950096998-pru0f1s09mt50atth5ru399ectma0b3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO_3ukr0FyMFBJep-o95OztUt1CtPKG_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262950096998-pru0f1s09mt50atth5ru399ectma0b3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,73 @@
+{
+    "Teacher" : {
+        "TeacherCode1" : {
+            "name" : "___",
+            "mob" : "___",
+            "Subject" : {
+                "SubCode1" : {
+                    "name" : "___",
+                    "batch" : ["___", "___"]
+                },
+                "SubCode2" : {
+                    "name" : "___",
+                    "batch" : ["___", "___"]
+                }
+            }
+        },
+        "TeacherCode2" : {
+            "name" : "___",
+            "mob" : "___",
+            "Subject" : {
+                "SubCode1" : {
+                    "name" : "___",
+                    "batch" : ["___", "___"]
+                },
+                "SubCode2" : {
+                    "name" : "___",
+                    "batch" : ["___", "___"]
+                }
+            }
+        }
+        
+    },
+    
+    
+    "Student" : {
+        "roll1" : {
+            "name" : "___",
+            "batch" : "___"
+        },
+        "roll2" : {
+            "name" : "___",
+            "batch" : "___"
+        },
+        "roll3" : {
+            "name" : "___",
+            "batch" : "___"
+        }
+    },
+    
+    "Batch" : {
+        "BatchCode1" : {
+            "year" : "___",
+            "dept" : "___",
+            "sec" : "___"
+        },
+        "BatchCode2" : {
+            "year" : "___",
+            "dept" : "___",
+            "sec" : "___"
+        },
+        "BatchCode3" : {
+            "year" : "___",
+            "dept" : "___",
+            "sec" : "___"
+        }
+    },
+    
+    "Attendance" : {
+        "date" : {
+    
+        }
+    }
+}

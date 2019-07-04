@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'SignupPage.dart';
 import 'SigninPage.dart';
 import 'batches.dart';
 
@@ -26,7 +25,8 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       theme: ThemeData(
         fontFamily: 'Roboto',
-        primaryColor: Colors.white,
+        primaryColor: Colors.teal[900],
+        accentColor: Colors.grey[900],
         primarySwatch: Colors.green,
       ),
       debugShowCheckedModeBanner: false,
